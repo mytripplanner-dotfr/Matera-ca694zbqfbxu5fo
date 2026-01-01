@@ -1,0 +1,267 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🏛️",
+  "titre": "Matera : Immersion dans la Cité des Sassi",
+  "budget_total": "1750 €",
+  "duree": "7 jours",
+  "temps_vol": "2h25 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Matera et première immersion",
+      "legende": "Votre voyage commence par un vol direct vers Bari, suivi d'un transfert confortable vers Matera. Après l'installation, une douce balade nocturne dans les Sassi vous offrira un premier aperçu magique de cette ville unique, classée au patrimoine mondial de l'UNESCO.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Bari et transfert vers Matera.",
+        "<strong>🛏️</strong>: Installation dans votre hébergement troglodyte pour une expérience authentique.",
+        "<strong>🚶‍♀️</strong>: Première balade nocturne relaxante dans les Sassi, sous les lumières douces."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Bari Karol Wojtyła, Bari",
+          "categorie": "Aéroport",
+          "coords": { "lat": 41.1389, "lng": 16.7605 }
+        },
+        {
+          "nom_recherche": "Matera Centrale, Matera",
+          "categorie": "Gare routière",
+          "coords": { "lat": 40.6667, "lng": 16.6074 }
+        },
+        {
+          "nom_recherche": "Sassi di Matera, Matera",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 40.6667, "lng": 16.6100 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert",
+          "texte": "Des bus relient l'aéroport de Bari à Matera en environ 1h. Il est conseillé de réserver à l'avance, surtout en haute saison."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🚶‍♂️",
+      "titre": "Exploration du Sasso Barisano et vie troglodyte",
+      "legende": "Découvrez le Sasso Barisano, la partie la plus restaurée des Sassi, avec ses boutiques et restaurants. Plongez dans le passé en visitant une maison-grotte typique, puis savourez la cuisine locale dans une trattoria authentique.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🚶‍♂️</strong>: Exploration matinale du Sasso Barisano, ses ruelles et ses panoramas.",
+        "<strong>🏛️</strong>: Visite de la Casa Grotta di Vico Solitario pour comprendre la vie d'antan.",
+        "<strong>🍝</strong>: Dégustation de spécialités lucaniennes dans une trattoria locale."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Sasso Barisano, Matera",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 40.6690, "lng": 16.6080 }
+        },
+        {
+          "nom_recherche": "Casa Grotta di Vico Solitario, Matera",
+          "categorie": "Musée",
+          "coords": { "lat": 40.6639, "lng": 16.6080 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Portez des chaussures confortables, les rues des Sassi sont pavées et parfois escarpées."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛪",
+      "titre": "Sasso Caveoso et églises rupestres",
+      "legende": "Aujourd'hui, explorez le Sasso Caveoso, plus ancien et plus \"sauvage\", abritant de nombreuses églises rupestres. Admirez la Cathédrale de Matera, perchée au sommet, offrant une vue imprenable sur la ville.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🚶‍♀️</strong>: Découverte du Sasso Caveoso, ses grottes et ses habitations troglodytes.",
+        "<strong>⛪</strong>: Visite de l'Église rupestre de Santa Lucia alle Malve, un joyau d'art byzantin.",
+        "<strong>⛪</strong>: Ascension à la Cathédrale de Matera pour son architecture et sa vue panoramique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Sasso Caveoso, Matera",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 40.6640, "lng": 16.6080 }
+        },
+        {
+          "nom_recherche": "Chiesa di Santa Lucia alle Malve, Matera",
+          "categorie": "Église rupestre",
+          "coords": { "lat": 40.6660, "lng": 16.6070 }
+        },
+        {
+          "nom_recherche": "Cattedrale di Matera, Matera",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 40.6670, "lng": 16.6090 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🖼️",
+          "titre": "Art rupestre",
+          "texte": "Les églises rupestres de Matera abritent des fresques millénaires, témoins de l'histoire religieuse de la région."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🏞️",
+      "titre": "Panorama et nature de la Murgia Materana",
+      "legende": "Évadez-vous de la ville pour admirer Matera depuis le Belvédère, offrant une vue emblématique. Profitez ensuite d'une balade douce dans le Parco della Murgia Materana, un paysage lunaire parsemé de grottes et de flore méditerranéenne.",
+      "lieu": "Matera et Parco della Murgia Materana",
+      "activites": [
+        "<strong>📸</strong>: Vue panoramique imprenable depuis le Belvédère de Matera, idéal pour les photos.",
+        "<strong>🌳</strong>: Balade douce et contemplative dans le Parco della Murgia Materana, à la découverte de la nature.",
+        "<strong>🧘‍♀️</strong>: Moment de détente et de contemplation, loin de l'agitation urbaine."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Belvedere di Matera, Matera",
+          "categorie": "Point de vue",
+          "coords": { "lat": 40.6600, "lng": 16.6200 }
+        },
+        {
+          "nom_recherche": "Parco della Murgia Materana, Matera",
+          "categorie": "Parc naturel",
+          "coords": { "lat": 40.6500, "lng": 16.6300 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Accès",
+          "texte": "Le Belvédère est accessible en voiture ou en taxi depuis Matera. Des sentiers balisés permettent des balades adaptées à tous les niveaux dans le parc."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🏠",
+      "titre": "Excursion féerique à Alberobello",
+      "legende": "Partez pour une excursion d'une journée à Alberobello, la célèbre ville des Trulli, classée au patrimoine mondial de l'UNESCO. Flânez dans ses quartiers pittoresques, admirez ces maisons coniques uniques et imprégnez-vous de l'atmosphère magique des Pouilles.",
+      "lieu": "Alberobello",
+      "activites": [
+        "<strong>🚗</strong>: Excursion matinale vers Alberobello, la capitale des Trulli.",
+        "<strong>🏠</strong>: Découverte des Trulli de Rione Monti et Aia Piccola, avec leurs toits coniques.",
+        "<strong>🛍️</strong>: Flânerie dans les ruelles, dégustation de produits locaux et shopping artisanal."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Alberobello, Bari",
+          "categorie": "Ville historique",
+          "coords": { "lat": 40.7840, "lng": 17.2360 }
+        },
+        {
+          "nom_recherche": "Rione Monti, Alberobello",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 40.7830, "lng": 17.2360 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport",
+          "texte": "Alberobello est à environ 1h de route de Matera. Vous pouvez y aller en bus (avec correspondance) ou louer une voiture pour plus de flexibilité."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🍷",
+      "titre": "Détente et saveurs locales",
+      "legende": "Profitez d'une journée plus relaxante à Matera. Visitez le marché local pour découvrir les produits frais de la région, puis offrez-vous un moment de détente. Terminez votre séjour par un dîner d'adieu mémorable, savourant les délices de la cuisine lucanienne.",
+      "lieu": "Matera",
+      "activites": [
+        "<strong>🥕</strong>: Visite du marché local de Matera pour découvrir les saveurs et produits frais.",
+        "<strong>💆‍♀️</strong>: Moment de détente dans un café, ou flânerie libre dans les Sassi.",
+        "<strong>🍷</strong>: Dîner d'adieu dans un restaurant typique, avec dégustation de vins locaux."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Mercato di Matera, Matera",
+          "categorie": "Marché",
+          "coords": { "lat": 40.6660, "lng": 16.6070 }
+        },
+        {
+          "nom_recherche": "Matera",
+          "categorie": "Ville",
+          "coords": { "lat": 40.6667, "lng": 16.6074 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Le marché est l'endroit idéal pour acheter des produits locaux comme l'huile d'olive, le pain de Matera ou des fromages."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "✈️",
+      "titre": "Départ de Matera",
+      "legende": "Profitez d'un dernier petit-déjeuner à Matera et de quelques instants pour acheter des souvenirs. Il sera ensuite temps de prendre le transfert vers l'aéroport de Bari pour votre vol retour vers Paris, la tête remplie de souvenirs inoubliables.",
+      "lieu": "Matera et Bari",
+      "activites": [
+        "<strong>🎁</strong>: Derniers achats de souvenirs et dégustation d'un café italien.",
+        "<strong>🚗</strong>: Transfert de Matera vers l'aéroport de Bari.",
+        "<strong>✈️</strong>: Vol retour vers Paris, France."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Matera",
+          "categorie": "Ville",
+          "coords": { "lat": 40.6667, "lng": 16.6074 }
+        },
+        {
+          "nom_recherche": "Aéroport de Bari Karol Wojtyła, Bari",
+          "categorie": "Aéroport",
+          "coords": { "lat": 41.1389, "lng": 16.7605 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Prévoyez suffisamment de temps pour le transfert et l'enregistrement à l'aéroport, surtout en période de forte affluence."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 188 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "120 €/pers (transferts aéroport, bus/location voiture)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "600 €/pers (restaurants locaux, cafés)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "750 €/pers (hôtel 3* ou B&B troglodyte)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "80 €/pers (musées, églises rupestres)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Mai à Juin, Septembre à Octobre", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "En mai, les températures varient entre 15 et 25°C. Prévoir des vêtements légers et une veste pour les soirées.", "symbole": "☀️" },
+    { "titre": "L'Euro est la monnaie. Cartes de crédit largement acceptées. Prévoir un peu de liquide pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Matera est une ville piétonne. Pour les excursions, la location de voiture est recommandée ou l'utilisation de bus locaux.", "symbole": "🚗" },
+    { "titre": "Une carte SIM locale ou eSIM est pratique pour la navigation. Le Wi-Fi est généralement disponible dans les hébergements.", "symbole": "📶" },
+    { "titre": "Apprendre quelques mots d'italien sera apprécié par les locaux et facilitera les échanges.", "symbole": "🗣️" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-BRI/2026-05-15/2026-05-22", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Italie", "url": "https://www.italia.it/fr", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "Trenitalia", "url": "https://www.trenitalia.com/fr.html", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Meteo.it", "url": "https://www.ilmeteo.it/", "symbole": "🌤️" }
+  ]
+}
